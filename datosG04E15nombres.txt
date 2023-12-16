@@ -1,9 +1,0 @@
-bicicleta
-campera
-cantimplora
-casco
-funda
-mochila
-azul
-rojo
-verde
